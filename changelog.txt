@@ -1,0 +1,52 @@
+
+# Changelog
+
+    ### Fixed
+		
+	All Controller method no longer takes object input except constructor.
+
+	new method add: 
+
+		ModelImpl: 
+
+			A Model now have two fileds: A list of Portfolio , a input String
+
+				
+			String CreatePortfolio( String p_name) : 
+			
+			user input the name of Portfolio to controller, controller pass this name to
+
+ 			this method. If the name not exists in the Portfolio list, init a new 
+
+			Portfolio with the given name. returns message "created"  else return "
+
+ 			Portfolio already exits " . 
+
+		
+			void addStock(String p_name, String s_name, int share):
+			
+			takes Portfolio name, stock name, number of share .
+
+			add the stock with s_name and share into the Portfolio that has p_name.
+
+
+			void savePortfolio(String name) :
+			
+
+			save the Portfolio with the giving name.
+
+
+
+
+		
+	VIEW:
+
+	Delete the view.print, combine it with view.settext. 
+
+
+
+
+
+
+
+
