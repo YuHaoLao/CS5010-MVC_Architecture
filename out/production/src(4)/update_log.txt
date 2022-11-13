@@ -1,0 +1,8 @@
+11-10:
+Update some text description update -- more accurate
+Delete View-clearMessage()
+Refactor Model-"input"-->"info"
+Refactor Portfolio -> InflexiblePortfolio
+
+11-11:
+NewClass FlexiblePortfolio

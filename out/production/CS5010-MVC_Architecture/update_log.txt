@@ -1,0 +1,19 @@
+11-10:
+Update some text description update -- more accurate
+Delete View-clearMessage()
+Refactor Model-"input"-->"info"
+Refactor Portfolio -> InflexiblePortfolio
+
+11-11:
+NewClass FlexiblePortfolio
+
+11-13:
+
+Refactor- contriller.createInfPortfolio
+New method -contriller.createFlexPortfolio
+New method - contriller.saveFlexPortfolio
+
+New method -   model.saveFlexPortfolio
+New method -model. CreateFlexPortfolio
+
+Refactor-  model.addStock
